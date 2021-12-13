@@ -11,7 +11,7 @@ Postman Collection Share Link->https://www.getpostman.com/collections/750c6326c3
 
 -> Used mongo db database to store the data.
 
--> For CRUD operations used mongoose to connect with databases.
+-> For CRUD operations used mongoose to connect with databases. 
 
 -> Created config folder with mongoose.js file which establishes connection with mongodb.
 
